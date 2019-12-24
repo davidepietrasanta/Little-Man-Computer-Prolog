@@ -1,4 +1,4 @@
-# Little-Man-Computer-Prolog-
+# Little-Man-Computer-Prolog
 A "Little man computer" in Prolog. This implementation was written by Davide Pietrasanta and Veronica Orsanigo. 
 
 You can find the specifics [Here](https://github.com/davidepietrasanta/Little-Man-Computer-Prolog-/blob/master/LP%20201901%20E1P%20LMC.pdf)
