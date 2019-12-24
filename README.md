@@ -1,7 +1,7 @@
 # Little-Man-Computer-Prolog-
 A "Little man computer" in Prolog. This implementation was written by Davide Pietrasanta and Veronica Orsanigo. 
 
-You can find the specifics here 
+You can find the specifics [Here](https://github.com/davidepietrasanta/Little-Man-Computer-Prolog-/blob/master/LP%20201901%20E1P%20LMC.pdf)
 
 Il progetto consiste nella creazione di un LMC (little man computer), che e' formato da:
 - Memoria di 100 celle numerate da 0 a 99 contenenti numeri fra 0 e 999, senza distinzione fra numeri e istruzioni
